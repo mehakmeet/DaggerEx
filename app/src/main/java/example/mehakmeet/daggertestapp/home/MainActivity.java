@@ -1,7 +1,9 @@
-package example.mehakmeet.daggertestapp;
+package example.mehakmeet.daggertestapp.home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import example.mehakmeet.daggertestapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
